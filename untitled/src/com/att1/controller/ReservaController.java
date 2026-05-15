@@ -1,4 +1,4 @@
-package main.java.com.att1.controller;
+package com.att1.controller;
 
 import com.att1.model.Sala;
 import com.att1.model.Usuario;
