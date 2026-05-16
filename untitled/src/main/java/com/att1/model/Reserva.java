@@ -11,7 +11,8 @@ public class Reserva {
     private LocalTime horario;
     private Boolean status;
 
-    public Reserva(Long id, Usuario usuario, Sala sala, LocalDate data, LocalTime horario, Boolean status) {
+    public Reserva(Long id, Usuario usuario, Sala sala, LocalDate data, LocalTime horario, Boolean status)
+    {
         this.id = id;
         this.usuario = usuario;
         this.sala = sala;
